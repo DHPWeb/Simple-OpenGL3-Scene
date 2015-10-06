@@ -1,0 +1,27 @@
+﻿La génération a démarré 06/05/2015 16:21:39.
+     1>Projet "C:\Users\Maxime\Desktop\Projets\Robot\Robot\Robot.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WaterPlan.cpp
+         WaterPlan.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Maxime\Desktop\Projets\Robot\Debug\Robot.exe" /INCREMENTAL /NOLOGO opengl32.lib glew32.lib SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Maxime\Desktop\Projets\Robot\Debug\Robot.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Maxime\Desktop\Projets\Robot\Debug\Robot.lib" /MACHINE:X86 Debug\Caisse.obj
+         Debug\Camera.obj
+         Debug\Cube.obj
+         Debug\Input.obj
+         Debug\main.obj
+         Debug\mesh.obj
+         Debug\ObjLoader.obj
+         Debug\SceneOpenGL.obj
+         Debug\Shader.obj
+         Debug\Skybox.obj
+         Debug\Terrain.obj
+         Debug\Texture.obj
+         Debug\VertexBufferObject.obj
+         Debug\WaterPlan.obj
+         Debug\WaterShader.obj
+         Robot.vcxproj -> C:\Users\Maxime\Desktop\Projets\Robot\Debug\Robot.exe
+     1>Génération du projet "C:\Users\Maxime\Desktop\Projets\Robot\Robot\Robot.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.57

@@ -1,0 +1,5 @@
+Le Dossier DEBUG contient l'executable
+et les DLLs pour lancer le programme
+ainsi que le code source des Shaders
+Le dossier Robot contient les codes
+sources C++
